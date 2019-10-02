@@ -15,7 +15,7 @@ During my research grant 3 scientific papers were published and 1 accepted with 
 
 -> EMBC - similar study was made but with the EEG signal that lead to coherent results;
 
--> DSN - study that made use of pupilography with a analysis base on boxplots and outliers that resulted in similar findings;
+-> DSN - study that made use of pupilography with a analysis based on boxplots and outliers that resulted in similar findings;
 
 -> ISSRE - study that used a density based cluster with a combination of HRV, pupillography and eye tracking to isolate problematic code lines and assess local cognitive effort.
 
