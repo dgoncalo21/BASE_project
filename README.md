@@ -13,7 +13,7 @@ During my research grant 3 scientific papers were published and 1 accepted with 
 
 -> ICSE - findings of my thesis;
 
--> EMBC - similar study was made but with the EEG signal that lead to coherent results;
+-> EMBC - similar study was made but with the EEG signal that led to coherent results;
 
 -> DSN - study that made use of pupilography with a analysis based on boxplots and outliers that resulted in similar findings;
 
